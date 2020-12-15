@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+## Impact of COVID-19 on Domestic Air Transportation
 
-You can use the [editor on GitHub](https://github.com/dbernal1/COVID-and-Domestic-Flight-Impact/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Welcome!
+This analysis focuses on the impact that COVID-19 has had on air transportation in the USA. The idea of working with COVID data surged from a previous professional experience where I had the chance to create and enhance a dataset to track the impact on suppliers accross the world. Despite the type information by industry differs, I wanted to take the opportunity to analyze air transportation data to identify any trends/changes that this industry has sufferred during 2020. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Dataset
+The dataset that I selected is available in [Kaggle](https://www.kaggle.com/akulbahl/covid19-airline-flight-delays-and-cancellations/tasks) and contains domestic flight data from January to February.
 
-### Markdown
+### Analysis
+
+Click [here](file:///C:/Users/Owner/Documents/Intro%20to%20Data%20Mining/DATS%206103-Individual%20Project%203-Daniel%20Bernal/DATS_6103_Project3_Bernal.html) to see the notebook
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
